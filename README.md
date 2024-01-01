@@ -1,5 +1,7 @@
-![Static Badge](https://img.shields.io/badge/frequency-daily-purple) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.num_rows&label=num%20records&color=blue) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.min_date&label=min%20date&color=white) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.max_date&label=max%20date&color=white)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2F.github%2Fmain%2Fconfig%2Fconfig_logo_reddit_family.json&style=for-the-badge&labelColor=black)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2F.github%2Fmain%2Fconfig%2Fconfig_logo_freq_daily.json&style=for-the-badge&labelColor=black)
 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.num_rows&label=num%20records&color=blue&style=flat-square) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.min_date&label=min%20date&color=white&style=flat-square) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDataGrazr%2FRedditSubreddits%2Fmain%2Fdata%2Fproject_stats.json&query=%24%5B%3A1%5D.max_date&label=max%20date&color=white&style=flat-square)
 
 # DataGrazr Dataset: Reddit - Subreddits
 
@@ -61,11 +63,7 @@ Here are some example paths that cover most of the exported data:
 
 ## 🥼 Example Uses
 
-This dataset contains many different ways to use the data that's included, here are a few visual examples of how this dataset can be leveraged.
-
-### Changes in Rank of Top 10 Subreddits (24h)
-
-> Coming Soon
+This dataset contains many different ways to use the data that's included, here are some visual examples of how this dataset can be leveraged.
 
 ### Changes in Subscribers for Top 15 Subreddits (24h)
 
